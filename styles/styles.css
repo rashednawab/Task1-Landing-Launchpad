@@ -2,6 +2,12 @@
 .button{
     background-color: #4E47FF;
     color: #FFFFFF;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.button:hover{
+    background-color: #252432;
 }
 
 /* adding fonts */

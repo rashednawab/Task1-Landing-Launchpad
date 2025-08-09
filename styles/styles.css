@@ -1,4 +1,8 @@
 /* General */
+body{
+    max-width: 1140px;
+}
+
 .button{
     background-color: #4E47FF;
     color: #FFFFFF;
@@ -248,10 +252,7 @@ textarea::placeholder {
 /* Footer Section */
 footer{
     max-width: 531px;
-    margin-top: 104px;
-    margin-right: 455px;
-    margin-bottom: 103px;
-    margin-left: 454px;
+    margin: 0px auto;
 }
 footer div{
     font-weight: 900;
